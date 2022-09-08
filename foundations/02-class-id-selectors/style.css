@@ -1,0 +1,20 @@
+#number4 {
+    background-color: green;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#number2 {
+    font-size: 36px;
+    color: blue;
+}
+
+.p-class {
+    background-color: pink;
+    font-size: 18px;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.class-3 {
+    font-size: 24px;
+}
